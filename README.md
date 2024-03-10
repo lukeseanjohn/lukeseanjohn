@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Luke👋
 
-<!--
-**lukeseanjohn/lukeseanjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| Python             |
+|     2| SQL              |
+|     3| ML              |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working to imporve my python programming skills
+- 🌱 I’m currently learning functions and how to implement them in different programs 
+- 🤔 I’m looking for help with all things data analyst and data science
+- 📫 How to reach me:https://www.linkedin.com/in/luke-johnson-b9245b2a0/
