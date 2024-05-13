@@ -4,7 +4,7 @@
 |-----:|---------------|
 |     1| Python             |
 |     2| SQL              |
-|     3| Data cleaning              |
+|     3| Data Cleaning              |
 
 
 - 🔭 I’m currently working to improve my python programming skills
