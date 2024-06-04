@@ -4,10 +4,12 @@
 |-----:|---------------|
 |     1| Python             |
 |     2| SQL              |
-|     3| Data Cleaning              |
+|     3| Microsoft office  
+|     4 Jupyter
 
 
-- 🔭 I’m currently working to improve my python programming skills
-- 🌱 I’m currently learning functions and how to implement them in different programs 
-- 🤔 I’m looking for help with all things data analyst and data science
+
+- 🔭 Data extracting, transforming and loading 
+- 🌱 Building dashboards with microsoft power BI and Jupyter lab
+- 🤔 Contact me for you data analysis related queries
 - 📫 How to reach me:https://www.linkedin.com/in/luke-johnson-b9245b2a0/
