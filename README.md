@@ -11,5 +11,5 @@
 
 - 🔭 Data extracting, transforming and loading 
 - 🌱 Building dashboards with microsoft power BI and Jupyter lab
-- 🤔 Contact me for you data analysis related queries
+- 🤔 Contact me if you need your data analysed
 - 📫 How to reach me:https://www.linkedin.com/in/luke-johnson-b9245b2a0/
