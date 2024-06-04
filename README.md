@@ -5,7 +5,10 @@
 |     1| Python             |
 |     2| SQL              |
 |     3| Microsoft office  
-|     4 Jupyter
+|     4| Jupyter Notebook
+|     5| Jupyter Lab
+
+
 
 
 
